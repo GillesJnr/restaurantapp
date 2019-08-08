@@ -13,5 +13,5 @@ A simple restaurant app that uses node Js to render views through declared route
   2. The pug syntax for writing html and recieving content from the server
   
 # Images 
-![The Home Page](https://github.com/GillesJnr/restaurantapp/blob/master/public/restaurant.jpg)
-![The Teams Page](https://github.com/GillesJnr/restaurantapp/blob/master/public/team.jpg)
+![The Home Page](https://github.com/GillesJnr/restaurantapp/blob/master/restaurant.PNG)
+![The Teams Page](https://github.com/GillesJnr/restaurantapp/blob/master/team.PNG)
